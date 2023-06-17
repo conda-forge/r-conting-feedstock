@@ -1,11 +1,11 @@
-About r-conting
-===============
+About r-conting-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-conting-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=conting
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-conting-feedstock/blob/main/LICENSE.txt)
 
 Summary: Bayesian analysis of complete and incomplete contingency tables.
 
