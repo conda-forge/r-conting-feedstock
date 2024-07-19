@@ -1,6 +1,5 @@
 {% set version = '1.7' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-conting
@@ -13,8 +12,7 @@ source:
   sha256: efa3242c24bc4a68ac76f4b1d77753caabb4c19e1301d5a02697f5376438c221
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
 
   rpaths:
